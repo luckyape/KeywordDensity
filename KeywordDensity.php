@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Luckyape\KeywordDensity;
+namespace KeywordDensity;
 
-use BloggerFly\Html2Text
+
 /*
  ======================================================================
  KeywordDensityChecker v1.1
