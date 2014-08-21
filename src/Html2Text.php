@@ -104,6 +104,10 @@
  *  @version 1.0.0
  *  @since PHP 4.0.2
  */
+ 
+ namespace Luckyape\Html2Text;
+
+
 class Html2Text
 {
 
