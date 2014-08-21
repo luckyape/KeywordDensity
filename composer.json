@@ -1,0 +1,8 @@
+{
+    "name": "luckyape/keyworddensity",
+    "autoload": {
+        "psr-0" : {
+            "Luckyape\\KeywordDensity" : "src"
+        }
+    }
+}
